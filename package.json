@@ -1,0 +1,26 @@
+{
+  "name": "@gusti15/tea-lin",
+  "version": "1.0.0",
+  "description": "helo lin",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusti15/tea-lin.git"
+  },
+  "keywords": [
+    "TEA",
+    "pro"
+  ],
+  "author": "gusti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusti15/tea-lin/issues"
+  },
+  "homepage": "https://github.com/gusti15/tea-lin#readme",
+  "dependencies": {
+    "tea-lin": "^1.0.0"
+  }
+}

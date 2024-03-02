@@ -1,0 +1,5 @@
+//index.js
+function helo lin(){
+return "helo lin"
+}
+module.exports = helo lin
